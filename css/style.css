@@ -64,6 +64,10 @@
   
   .text-area {
     margin-top: 20px;
+    resize: none;
+    box-sizing: content-box;
+    width: 410px;
+    
   }
   
   #submit {
